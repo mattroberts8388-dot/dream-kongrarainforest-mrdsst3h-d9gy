@@ -1,0 +1,23 @@
+{
+  "itemGroup.kongrarainforest.general": "Kongra Rainforest",
+
+  "item.kongrarainforest.rainforest_gem": "Rainforest Gem",
+  "item.kongrarainforest.cobra_scale": "King Cobra Scale",
+  "item.kongrarainforest.gorilla_fang": "Gorilla Fang",
+  "item.kongrarainforest.kongra_core": "Kongra Core",
+
+  "item.kongrarainforest.kongra_helmet": "Kongra Helmet",
+  "item.kongrarainforest.kongra_chestplate": "Kongra Chestplate",
+  "item.kongrarainforest.kongra_leggings": "Kongra Leggings",
+  "item.kongrarainforest.kongra_boots": "Kongra Boots",
+
+  "item.kongrarainforest.jaguar_spawn_egg": "Jaguar Spawn Egg",
+  "item.kongrarainforest.toucan_spawn_egg": "Toucan Spawn Egg",
+  "item.kongrarainforest.kongra_spawn_egg": "Kongra Spawn Egg",
+
+  "entity.kongrarainforest.jaguar": "Jaguar",
+  "entity.kongrarainforest.toucan": "Toucan",
+  "entity.kongrarainforest.kongra": "KONGRA",
+
+  "death.attack.kongra_rain": "%1$s was consumed by the rainforest downpour"
+}

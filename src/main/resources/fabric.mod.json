@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "kongrarainforest",
+  "version": "${version}",
+  "name": "Kongra Rainforest Ecosystem",
+  "description": "Adds a deadly rainforest ecosystem where prolonged rain damages you, populated by exotic animals and the fearsome Kongra boss, countered only by craftable Kongra armor.",
+  "authors": ["Kongra Dev"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/kongrarainforest/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.kongrarainforest.KongraRainforestMod"],
+    "client": ["com.kongrarainforest.client.KongraRainforestClient"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
